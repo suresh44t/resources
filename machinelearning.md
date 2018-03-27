@@ -1,3 +1,24 @@
+## Learning Tools/languares
+1. https://www.r-project.org/
+      1. https://app.pluralsight.com/player?course=r-data-science&author=matthew-renze&name=r-data-science-m0&clip=0&mode=live
+2. https://in.mathworks.com/products/matlab.html
+      1. https://matlabacademy.mathworks.com/R2017b/portal.html?course=gettingstarted#chapter=4&lesson=2&section=1
+3. https://www.gnu.org/software/octave/
+4. https://www.python.org/
+      1. Math: numpy
+      2. Data Analysis: Pandas
+      3. Data Mining: PySpark
+      4. Server: Flask, Django
+      5. Performance:
+          * TensorFlow (because it is written with a Python API over a C/C++ engine)
+          * Keras (sits on top of TensorFlow)
+
+## Learning Machine learning concepts
+1. https://www.robinwieruch.de/machine-learning-javascript-web-developers/
+2. https://www.coursera.org/learn/machine-learning/lecture/RKFpn/welcome
+      1. https://www.coursera.org/learn/machine-learning/lecture/6Nj1q/multiple-features
+
+
 ## Programming languages in machine learning and the areas where they are primarily used:
 1. Math / Data Analysis: Matlab, Octave, Julia, R
 2. Data Mining: Scala, Java (e.g. Hadoop, Spark, Deeplearning4j)
@@ -76,10 +97,7 @@ These short tutorial videos introduce MATLAB and cover various programming topic
 [Troubleshooting Code with the Debugger](https://youtu.be/DB4aJMnZtNQ)
 ---------------------------------------------------------
 
-http://ocdevel.com/podcasts/machine-learning
-http://propelml.org/references/
-
-
-https://www.robinwieruch.de/machine-learning-javascript-web-developers/
-https://www.coursera.org/learn/machine-learning/lecture/RKFpn/welcome
-
+## miscellaneous
+* http://ocdevel.com/podcasts/machine-learning
+* http://propelml.org/references/
+---------------------------------------------------------
