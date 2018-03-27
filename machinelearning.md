@@ -95,9 +95,11 @@ These short tutorial videos introduce MATLAB and cover various programming topic
 [Using Online Documentation](https://youtu.be/54n5zJwR8aM)*
 [Which File or Variable Am I Using?](https://youtu.be/Z09BvGeYNdE)
 [Troubleshooting Code with the Debugger](https://youtu.be/DB4aJMnZtNQ)
+
 ---------------------------------------------------------
 
-## miscellaneous
+## Miscellaneous
 * http://ocdevel.com/podcasts/machine-learning
 * http://propelml.org/references/
+
 ---------------------------------------------------------
